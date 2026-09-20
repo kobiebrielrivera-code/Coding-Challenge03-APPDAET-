@@ -1,3 +1,15 @@
+# Course: APPDAET
+# Coding Challenge 03
+# Challenge 03 - Linear System Analyzer
+# Student Names: Aguilar, Bernal, Cabrera, Obille, Rivera
+# Student Numbers: 12512293, 12512208, 12522896, 12512570, 12512769
+# Section: BTIS1
+# Date: September 20, 2026
+# Program Purpose: To analyze a two-variable linear system by validating the input,
+# computing determinants with Cramer's Rule,
+# classifying the system and its geometry,
+# and reporting a verified solution when one exists.
+
 
 # TWO VARIABLE LINEAR SYSTEM ANALYZER
 # a1x + b1y = c1

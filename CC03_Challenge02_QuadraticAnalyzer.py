@@ -1,3 +1,16 @@
+# Course: APPDAET
+# Coding Challenge 03
+# Challenge 02 - Quadratic Analyzer
+# Student Names: Aguilar, Bernal, Cabrera, Obille, Rivera
+# Student Numbers: 12512293, 12512208, 12522896, 12512570, 12512769
+# Section: BTIS1
+# Date: September 20, 2026
+# Program Purpose: To analyze a quadratic equation by validating the input,
+# computing the discriminant and vertex,
+# classifying the parabola and its roots,
+# and presenting a clear report of the solutions and graph behavior.
+
+
 # QUADRATIC EQUATION AND PARABOLA ANALYZER
 # ax^2 + bx + c = 0
 

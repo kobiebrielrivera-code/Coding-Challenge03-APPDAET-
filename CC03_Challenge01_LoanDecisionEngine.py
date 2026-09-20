@@ -1,3 +1,15 @@
+# Course: APPDAET
+# Coding Challenge 03
+# Challenge 01 - Loan Decision Engine
+# Student Names: Aguilar, Bernal, Cabrera, Obille, Rivera
+# Student Numbers: 12512293, 12512208, 12522896, 12512570, 12512769
+# Section: BTIS1
+# Date: September 20, 2026
+# Program Purpose: To automate a rule-based loan eligibility assessment by
+# validating applicant data, computing risk indicators
+# (credit class, DTI, loan limit), and producing a clear,  explained approval decision.
+
+
 print("==================================================")
 print("           LOAN DECISION ASSESSMENT")
 print("==================================================")
